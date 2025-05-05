@@ -1,0 +1,7 @@
+# Ignore all node_modules folders
+node_modules/
+frontend/age_check/node_modules/
+
+# Ignore the circom and circomlib directories in the backend
+backend/circom/
+backend/circomlib/
